@@ -1,0 +1,5 @@
+{
+  "name": "HS Palace Guest Management",
+  "description": "An application for HS Palace hotel to manage guest check-ins by capturing Aadhar card details using AI, collecting contact information, and generating a PDF summary.",
+  "requestFramePermissions": []
+}
